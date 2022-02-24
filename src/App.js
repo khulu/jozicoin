@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {Component} from 'react';
+import {View,BackHandler,Platform,} from 'react-native';
 import {WebView} from 'react-native-webview';
 
-function App() {
-
-  export default class App extends Component {
+export default class App extends Component {
     constructor(props) {
       super(props);
     }
@@ -51,4 +49,3 @@ function App() {
     }
     
   }
-}
