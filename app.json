@@ -21,6 +21,7 @@
       "bundleIdentifier": "com.jozicoin.app"
     },
     "android": {
+      "permissions": [],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
