@@ -1,7 +1,7 @@
 {
   "name": "jozicoin",
   "version": "1.0.2",
-  "versionCode": "2",
+  "versionCode": 2,
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",

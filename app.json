@@ -3,7 +3,6 @@
     "name": "Jozicoin",
     "slug": "Jozicoin",
     "version": "1.0.2",
-    "versionCode": "2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -22,6 +21,7 @@
       "bundleIdentifier": "com.jozicoin.app"
     },
     "android": {
+      "versionCode": 2,
       "permissions": [],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
